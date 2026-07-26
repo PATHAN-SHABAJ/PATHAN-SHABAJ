@@ -1,12 +1,12 @@
-z<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=PATHAN%20SHABAJ%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CSE%20(Data%20Science)&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=ff0000,cc0000,990000,660000&text=PATHAN%20SHABAJ%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CSE%20(Data%20Science)&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=Data%20Analyst;Python%20Developer;Machine%20Learning%20Enthusiast" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FF4D4D&center=true&vCenter=true&width=650&lines=Data%20Analyst;Python%20Developer;Machine%20Learning%20Enthusiast" alt="Typing introduction" />
 </p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=PATHAN-SHABAJ">
-    <img src="https://komarev.com/ghpvc/?username=PATHAN-SHABAJ&label=Profile%20views&color=00FFFF&style=flat-square" alt="PATHAN-SHABAJ's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=PATHAN-SHABAJ&label=Profile%20views&color=FF0000&style=flat-square" alt="PATHAN-SHABAJ's profile views" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@ z<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gr
 **Interested In:** AI Applications, Automation, Backend Development, Data Pipelines
 
 ## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/python-CC0000?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23990000.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%23990000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%23CC0000.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23990000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23660000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23990000.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23CC0000.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%23990000.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%23660000.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23CC0000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23990000.svg?style=for-the-badge&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23660000.svg?style=for-the-badge&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-CC0000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-CC0000?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 🛠️ Tools
 <p align="center">
@@ -37,29 +37,29 @@ z<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gr
 
 ## 🔗 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/pathan-shabaj-8049" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Pathan Shabaj's LinkedIn"/></a>
-  <a href="mailto:pathanshabaj555@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Pathan Shabaj's Email"/></a>
-  <a href="https://github.com/PATHAN-SHABAJ" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Pathan Shabaj's GitHub"/></a>
+  <a href="https://linkedin.com/in/pathan-shabaj-8049" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%23990000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Pathan Shabaj's LinkedIn"/></a>
+  <a href="mailto:pathanshabaj555@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-%23CC0000.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Pathan Shabaj's Email"/></a>
+  <a href="https://github.com/PATHAN-SHABAJ" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-%23660000.svg?style=for-the-badge&logo=github&logoColor=white" alt="Pathan Shabaj's GitHub"/></a>
 </p>
 
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=PATHAN-SHABAJ&theme=radical&no-frame=true&margin-w=15" alt="Pathan Shabaj's GitHub Trophies" />
+  <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=PATHAN-SHABAJ&theme=gruvbox&no-frame=true&margin-w=15" alt="Pathan Shabaj's GitHub Trophies" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PATHAN-SHABAJ&theme=dracula&hide_border=true&cache_seconds=86400" alt="PATHAN-SHABAJ's GitHub Streak" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=PATHAN-SHABAJ&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF4D4D&sideLabels=FFFFFF&dates=FFFFFF" alt="PATHAN-SHABAJ's GitHub Streak" width="70%" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PATHAN-SHABAJ&show_icons=true&theme=dracula&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PATHAN-SHABAJ&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PATHAN-SHABAJ&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF4D4D&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PATHAN-SHABAJ&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF"/>
 </p>
 
 ## GitHub Contribution Graph 📈
 
 <p align="center">
-  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=PATHAN-SHABAJ&theme=dracula&radius=10" alt="PATHAN-SHABAJ's Activity Graph" />
+  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=PATHAN-SHABAJ&hide_border=true&bg_color=0D1117&color=FF4D4D&line=FF0000&point=FFFFFF&area=true&area_color=FF0000" alt="PATHAN-SHABAJ's Activity Graph" />
 </p>
 
 ## Contribution Snake 🐍
