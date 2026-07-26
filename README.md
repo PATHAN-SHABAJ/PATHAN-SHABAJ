@@ -62,14 +62,4 @@
   <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=PATHAN-SHABAJ&hide_border=true&bg_color=0D1117&color=FF4D4D&line=FF0000&point=FFFFFF&area=true&area_color=FF0000" alt="PATHAN-SHABAJ's Activity Graph" />
 </p>
 
-## Contribution Snake 🐍
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PATHAN-SHABAJ/PATHAN-SHABAJ/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PATHAN-SHABAJ/PATHAN-SHABAJ/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PATHAN-SHABAJ/PATHAN-SHABAJ/output/github-snake.svg" />
-</picture>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
