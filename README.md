@@ -1,3 +1,8 @@
+# ================================================================
+#  FILE 1 of 2 — save this part as:  README.md
+#  (goes in the ROOT of your PATHAN-SHABAJ/PATHAN-SHABAJ repo)
+# ================================================================
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=ff0000,cc0000,990000,660000&text=PATHAN%20SHABAJ%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CSE%20(Data%20Science)&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
@@ -74,3 +79,42 @@ I'm a **Data Analyst** and **Python Developer**, currently pursuing my **B.Tech 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PATHAN-SHABAJ/PATHAN-SHABAJ/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/PATHAN-SHABAJ/PATHAN-SHABAJ/output/github-snake.svg" />
 </picture>
+
+
+# ================================================================
+#  FILE 2 of 2 — save this part as:  .github/workflows/snake.yml
+#  (this is what actually GENERATES the snake image above —
+#   without this file in your repo, the snake image will stay broken)
+# ================================================================
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch:        # lets you trigger it manually
+  push:
+    branches:
+      - main                # change to "master" if that's your default branch
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate github-snake.svg / github-snake-dark.svg (red theme)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: PATHAN-SHABAJ
+          outputs: |
+            dist/github-snake.svg?color_snake=%23ff0000&color_dots=%23330000,%23660000,%23990000,%23cc0000,%23ff3333
+            dist/github-snake-dark.svg?color_snake=%23ff4d4d&color_dots=%231a0000,%234d0000,%23800000,%23b30000,%23ff3333
+
+      - name: Push output to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
