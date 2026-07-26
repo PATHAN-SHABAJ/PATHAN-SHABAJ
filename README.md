@@ -44,9 +44,7 @@
 
 ## 📊 GitHub Stats & Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=PATHAN-SHABAJ&theme=gruvbox&no-frame=true&margin-w=15" alt="Pathan Shabaj's GitHub Trophies" />
-</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=PATHAN-SHABAJ&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF4D4D&sideLabels=FFFFFF&dates=FFFFFF" alt="PATHAN-SHABAJ's GitHub Streak" width="70%" />
 </p>
