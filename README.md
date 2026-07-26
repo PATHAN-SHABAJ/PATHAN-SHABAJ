@@ -1,87 +1,163 @@
-<h1 align="center">Hi 👋, I'm Pathan Shabaj</h1>
-<h3 align="center">Data Analyst | Python Developer | AI/ML Enthusiast</h3>
+<!-- ===================================================== -->
+<!--               PATHAN SHABAJ GITHUB PROFILE            -->
+<!-- ===================================================== -->
 
-<p align="center">
-Final Year B.Tech CSE (Data Science) Student passionate about data analytics,
-machine learning, and software development.
-</p>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#00E7FF;">Pathan Shabaj</span>
+</h1>
 
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech CSE (Data Science)
-- 📍 Andhra Pradesh, India
-- 💻 Interested in Data Analytics, Machine Learning & Backend Development
-- 🌱 Currently learning SQL, Power BI & Advanced Data Analytics
-- 📫 Email: **pathanshabaj555@gmail.com**
-- 💼 Open to Internship & Full-Time Opportunities
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Data Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-
-### Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
-
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
----
-
-## 📌 Featured Projects
-
-### 🗳 SmartPoliticsAnalyzer
-AI-powered political manifesto analysis and public reaction insights.
-
-### 🏡 Real Estate Price Forecast
-Machine learning model for house price prediction and visualization.
-
-### 📊 Data Processing Pipelines
-Automated dataset collection, preprocessing, validation, and Parquet storage using Python.
-
----
-
-## 📈 GitHub Stats
+<h3 align="center">
+Data Analyst • Python Developer • Machine Learning Enthusiast
+</h3>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PATHAN-SHABAJ&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PATHAN-SHABAJ&layout=compact&theme=tokyonight"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=2500&pause=900&color=00E7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Data+Analyst;Python+Developer;Machine+Learning+Engineer;Always+Learning+New+Technologies"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=PATHAN-SHABAJ&theme=tokyonight"/>
+
+<a href="https://github.com/PATHAN-SHABAJ">
+<img src="https://img.shields.io/github/followers/PATHAN-SHABAJ?label=Followers&logo=github&style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/PATHAN-SHABAJ">
+<img src="https://komarev.com/ghpvc/?username=PATHAN-SHABAJ&style=for-the-badge&color=blue"/>
+
+</a>
+
 </p>
 
 ---
 
-## 🤝 Connect With Me
+# 💫 About Me
 
-- LinkedIn: https://linkedin.com/in/pathan-shabaj-8049
-- Email: pathanshabaj555@gmail.com
+```yaml
+Name        : Pathan Shabaj
+Education   : B.Tech CSE (Data Science)
+Country     : India
+
+Focus:
+   • Data Analytics
+   • Python Development
+   • Machine Learning
+   • Data Engineering
+
+Currently Learning:
+   • SQL
+   • Power BI
+   • Advanced Python
+   • AWS Cloud
+
+Interested In:
+   • AI Applications
+   • Automation
+   • Backend Development
+   • Data Pipelines
+```
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/pathan-shabaj-8049">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:pathanshabaj555@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/PATHAN-SHABAJ">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+</p>
+
+---
+
+## Frameworks
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+<img src="https://skillicons.dev/icons?i=django"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+</p>
+
+---
+
+## Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=sqlite"/>
+
+</p>
+
+---
+
+## Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=PATHAN-SHABAJ&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PATHAN-SHABAJ&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
